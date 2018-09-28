@@ -13,6 +13,7 @@ Functionality: similar as v1 but with more options for reading data with csv.h a
 
 Options:
 Same 3 from v1
+
 4. Prompt user for a course, and will display Instructors and TAs teaching that course with students that are enrolled in that course.
 5. Prints out all enrolled courses without instructors and all intrustors with courses they are teaching
 6. Pays all staff. Instuctors are paid by courses time salary. Staff is paid by salary. TA is paid by hours times salary. No info is displayed.
