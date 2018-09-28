@@ -1,5 +1,4 @@
-// CS473_HW1.cpp : Defines the entry point for the console application.
-//
+//Verison 1 of directory software
 
 #include <iostream>
 #include <fstream>
